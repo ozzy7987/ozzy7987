@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ozzy7987
+- 👀 I’m interested in being a profetional coder!
+- 🌱 I’m currently learning to code python.
+- ⚡ Fun fact: My first intresst in code was when I was playing minecraft and used a commmand block.
